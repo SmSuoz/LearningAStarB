@@ -1,0 +1,22 @@
+C:\Users\franc\source\repos\LearningAStarB - Copy\LearningAStarB\obj\Debug\LearningAStarB.csprojResolveAssemblyReference.cache
+C:\Users\franc\source\repos\LearningAStarB - Copy\LearningAStarB\obj\Debug\LearningAStarB.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\LearningAStarB - Copy\LearningAStarB\bin\Debug\LearningAStarB.exe.config
+C:\Users\franc\source\repos\LearningAStarB - Copy\LearningAStarB\bin\Debug\LearningAStarB.exe
+C:\Users\franc\source\repos\LearningAStarB - Copy\LearningAStarB\bin\Debug\LearningAStarB.pdb
+C:\Users\franc\source\repos\LearningAStarB - Copy\LearningAStarB\bin\Debug\aiv-fast2d.dll
+C:\Users\franc\source\repos\LearningAStarB - Copy\LearningAStarB\bin\Debug\OpenTK.dll
+C:\Users\franc\source\repos\LearningAStarB - Copy\LearningAStarB\bin\Debug\OpenTK.xml
+C:\Users\franc\source\repos\LearningAStarB - Copy\LearningAStarB\obj\Debug\LearningAStarB.csproj.CopyComplete
+C:\Users\franc\source\repos\LearningAStarB - Copy\LearningAStarB\obj\Debug\LearningAStarB.exe
+C:\Users\franc\source\repos\LearningAStarB - Copy\LearningAStarB\obj\Debug\LearningAStarB.pdb
+C:\Users\IO\Desktop\LearningAStarC Nuovo\LearningAStarB\bin\Debug\LearningAStarB.exe.config
+C:\Users\IO\Desktop\LearningAStarC Nuovo\LearningAStarB\bin\Debug\LearningAStarB.exe
+C:\Users\IO\Desktop\LearningAStarC Nuovo\LearningAStarB\bin\Debug\LearningAStarB.pdb
+C:\Users\IO\Desktop\LearningAStarC Nuovo\LearningAStarB\bin\Debug\aiv-fast2d.dll
+C:\Users\IO\Desktop\LearningAStarC Nuovo\LearningAStarB\bin\Debug\OpenTK.dll
+C:\Users\IO\Desktop\LearningAStarC Nuovo\LearningAStarB\bin\Debug\OpenTK.xml
+C:\Users\IO\Desktop\LearningAStarC Nuovo\LearningAStarB\obj\Debug\LearningAStarB.csprojResolveAssemblyReference.cache
+C:\Users\IO\Desktop\LearningAStarC Nuovo\LearningAStarB\obj\Debug\LearningAStarB.csproj.CoreCompileInputs.cache
+C:\Users\IO\Desktop\LearningAStarC Nuovo\LearningAStarB\obj\Debug\LearningAStarB.exe
+C:\Users\IO\Desktop\LearningAStarC Nuovo\LearningAStarB\obj\Debug\LearningAStarB.pdb
+C:\Users\IO\Desktop\LearningAStarC Nuovo\LearningAStarB\bin\Debug\TextFile1.txt
